@@ -1,7 +1,7 @@
 #  Hi, I'm Abrar Bari!
 
-- Junior Computer Science major at Texas Tech University  
-- International student passionate about Web Dev, AI, ML, and Bio Technology  
+- Senior Computer Science major at Texas Tech University  
+- Passionate about Web Dev, AI, ML, and Bio Technology  
 - Currently an AI Fellow @Break Through Tech 
 - Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com)  
 

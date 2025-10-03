@@ -1,4 +1,4 @@
-#  Hi, I'm Abrar Bari!
+#  Hello, I am Abrar Faiaz Bari.
 
 - Senior Computer Science major at Texas Tech University  
 - Passionate about Web Dev, AI, ML, and Bio Technology  
@@ -14,6 +14,12 @@
 ###  [movie-booking-system-fullstack](https://github.com/jualam/Movie_Booking_System)
 - Developed a scalable MERN stack application with React, Express, and MongoDB, enabling monthly users to browsemovies, purchase tickets, and view order history, while admins manage inventory and analyze sales via a secure JWT-protecteddashboard.
 - End-to-End Security & Performance: Implemented JWT authentication, role-based access control (admin/user), and optimizedMongoDB queries, reducing API response times by 30% and ensuring secure transactions.
+
+### [findmyfilm-ReactApp] (https://abbari6566.github.io/FindMyFilm/)
+- An application I built to showcase modern frontend skills, including state management with the Context API. 
+- The project dynamically fetches and displays data from the live TMDB REST API.
+
+###[subscription-manager] (https://github.com/abbari6566/Backend_Subscription_Tracker)
 
 ###  [concrete-strength-predictor](https://github.com/jualam/Concrete-Strength)
 This project analyzes a dataset containing various features of concrete mixtures to predict their compressive strength.

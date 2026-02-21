@@ -1,53 +1,47 @@
 #  Hello, I am Abrar Faiaz Bari.
 
 - Senior Computer Science major at Texas Tech University  
-- Passionate about Web Dev, AI, ML, and Bio Technology  
-- Currently an AI Fellow @Break Through Tech 
+- Passionate about Web Dev, AI, ML
+- Currently an undergraduate Researcher at Dept. of Chemical Engineering at Texas Tech University under Dr Jennifer Gomez Pastora (https://www.depts.ttu.edu/che/research/gomez-pastora-research-group/people.php)
+- Currently an AI/ML Fellow @Break Through Tech, Cornell University
+- Previous AI Studio Fellow @Meta
 - Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com)  
 
 [LinkedIn](https://www.linkedin.com/in/abrar-bari)
 
 ---
 
-## Projects
+## Recent Projects
 
-###  [movie-booking-system-fullstack](https://github.com/jualam/Movie_Booking_System)
-- Developed a scalable MERN stack application with React, Express, and MongoDB, enabling monthly users to browsemovies, purchase tickets, and view order history, while admins manage inventory and analyze sales via a secure JWT-protecteddashboard.
-- End-to-End Security & Performance: Implemented JWT authentication, role-based access control (admin/user), and optimizedMongoDB queries, reducing API response times by 30% and ensuring secure transactions.
+- InterviewCraft (https://interview-craft-one.vercel.app/) - AI-powered interview preparation platform that generates role-specific interview questions, suggests tailored answers, and provides feedback on practice responses.
 
-### [findmyfilm-ReactApp] (https://abbari6566.github.io/FindMyFilm/)
-- An application I built to showcase modern frontend skills, including state management with the Context API. 
-- The project dynamically fetches and displays data from the live TMDB REST API.
+- GrowMart (https://github.com/abbari6566/Growmart) - A full-stack website for a gardening business: equipment, flowers, pots, seeds, and more.
 
-###[subscription-manager] (https://github.com/abbari6566/Backend_Subscription_Tracker)
+- [movie-booking-system-fullstack](https://github.com/jualam/Movie_Booking_System) - A full stack app for movie theatre businesses.
 
-###  [concrete-strength-predictor](https://github.com/jualam/Concrete-Strength)
-This project analyzes a dataset containing various features of concrete mixtures to predict their compressive strength.
-- Used metrics like RMSE and R-squared to evaluate model performance. We also conducted cross-validation to ensure the robustness of the models.  
-- Random Forest model showed the best performance, with an RMSE of approximately X and an R-squared value of Y
+- [findmyfilm-ReactApp] (https://abbari6566.github.io/FindMyFilm/) - The project dynamically fetches and displays data from the live TMDB REST API.
 
-###  [2048-pygame](https://github.com/abrarbari/2048-pygame)
-Fun project recreating the 2048 game using Python and Pygame.  
--  Great for understanding matrix movement and game logic
+- [subscription-manager] (https://github.com/abbari6566/Backend_Subscription_Tracker) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
 
-### [huffman-coding](https://github.com/abbari6566/Huffman-Coding)
-- This project implements Huffman Coding, a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. The goal of this implementation is to compress a string by encoding the characters into binary codes such that the most frequent characters have the shortest codes.
-- Features Frequency Calculation: The program calculates the frequency of each character in the input string. Huffman Tree Construction: A binary tree is built using the characters and their frequencies.
+- Explainable AI for Pneumonia Detection from Chest X-rays (https://github.com/abbari6566/Explainable_AI) - This project builds an end-to-end pipeline for pneumonia detection from chest X-rays using deep learning and explainable AI (XAI).
+
+- Robust Digit Classification Under Distribution Shift (https://github.com/abbari6566/Making-MNIST-Robust-to-Distribution-Shift) - This project studies how well neural networks handle distribution shift.
+
+- ToDoLite (https://github.com/abbari6566/todolite) - A simple modern todo app
+
+- Expense-Tracker (https://github.com/abbari6566/Expense-Tracker) - This is a simple Expense Tracker application built using Python and Tkinter, which allows users to add, view, delete monthly expenses and automatically calculates and displays the total expenses
+
+- 2048-pygame (https://github.com/abrarbari/2048-pygame) - Fun project recreating the 2048 game using Python and Pygame.  
+
+- huffman-coding (https://github.com/abbari6566/Huffman-Coding) - This project implements Huffman Coding, a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. The goal of this implementation is to compress a string by encoding the characters into binary codes such that the most frequent characters have the shortest codes.
 
 ---
 
 ## Skills
-- Python | Java | JavaScript | Node.JS | React.JS | MongoDB | Express.JS
-- Machine Learning | NLP | Computer Vision
-- Pandas | NumPy | scikit-learn | TensorFlow | OpenCV
-- Git & GitHub | Jupyter | Google Colab
-
----
-
-## Goals for 2025
-- Contribute to open-source ML projects
-- Build more AI tools with real-world impact
-- Land an internship or research position in AI or fulltime software development
+- Python | Java | JavaScript | Node.JS | React.JS | MongoDB | Express.JS | Next.JS | TypeScript | PostgreSQL | FastAPI | Docker
+- Machine Learning | NLP | Computer Vision | DeepLearning | CNN | YOLO | RAG | AgenticAI
+- Pandas | NumPy | scikit-learn | TensorFlow | OpenCV | PyTorch
+- Git & GitHub | Jupyter | Google Colab | Render | Vercel 
 
 ---
 
@@ -56,7 +50,4 @@ Fun project recreating the 2048 game using Python and Pygame.
 ![Abrar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbari6566&show_icons=true&theme=radical)
 
 
----
-
-_Thanks for visiting!_ 
 

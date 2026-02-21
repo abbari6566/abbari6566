@@ -17,23 +17,23 @@
 
 - GrowMart (https://github.com/abbari6566/Growmart) - A full-stack website for a gardening business: equipment, flowers, pots, seeds, and more.
 
-- [movie-booking-system-fullstack](https://github.com/jualam/Movie_Booking_System) - A full stack app for movie theatre businesses.
-
-- [findmyfilm-ReactApp] (https://abbari6566.github.io/FindMyFilm/) - The project dynamically fetches and displays data from the live TMDB REST API.
-
-- [subscription-manager] (https://github.com/abbari6566/Backend_Subscription_Tracker) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
+- subscription-manager (https://github.com/abbari6566/Backend_Subscription_Tracker) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
 
 - Explainable AI for Pneumonia Detection from Chest X-rays (https://github.com/abbari6566/Explainable_AI) - This project builds an end-to-end pipeline for pneumonia detection from chest X-rays using deep learning and explainable AI (XAI).
 
 - Robust Digit Classification Under Distribution Shift (https://github.com/abbari6566/Making-MNIST-Robust-to-Distribution-Shift) - This project studies how well neural networks handle distribution shift.
 
+- Movie Booking Platform (https://github.com/jualam/Movie_Booking_System) - A full stack app for movie theatre businesses.
+
+- FindmyFilm (https://abbari6566.github.io/FindMyFilm/) - The project dynamically fetches and displays data from the live TMDB REST API.
+
 - ToDoLite (https://github.com/abbari6566/todolite) - A simple modern todo app
 
-- Expense-Tracker (https://github.com/abbari6566/Expense-Tracker) - This is a simple Expense Tracker application built using Python and Tkinter, which allows users to add, view, delete monthly expenses and automatically calculates and displays the total expenses
+- Expense Tracker (https://github.com/abbari6566/Expense-Tracker) - This is a simple Expense Tracker application built using Python and Tkinter, which allows users to add, view, delete monthly expenses and automatically calculates and displays the total expenses
 
 - 2048-pygame (https://github.com/abrarbari/2048-pygame) - Fun project recreating the 2048 game using Python and Pygame.  
 
-- huffman-coding (https://github.com/abbari6566/Huffman-Coding) - This project implements Huffman Coding, a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. The goal of this implementation is to compress a string by encoding the characters into binary codes such that the most frequent characters have the shortest codes.
+- Huffman-Coding (https://github.com/abbari6566/Huffman-Coding) - This project implements Huffman Coding, a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. The goal of this implementation is to compress a string by encoding the characters into binary codes such that the most frequent characters have the shortest codes.
 
 ---
 

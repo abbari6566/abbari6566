@@ -4,7 +4,7 @@
 - Passionate about Web Dev, AI, ML
 - Currently an undergraduate Researcher at Dept. of Chemical Engineering at Texas Tech University under Dr Jennifer Gomez Pastora (https://www.depts.ttu.edu/che/research/gomez-pastora-research-group/people.php)
 - Currently an AI/ML Fellow @Break Through Tech, Cornell University
-- Previous AI Studio Fellow @Meta
+- Previous AI Studio Fellow @Meta (https://github.com/meta1C-btt/language-bias)
 - Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com)  
 
 [LinkedIn](https://www.linkedin.com/in/abrar-bari)

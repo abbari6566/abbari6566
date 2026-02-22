@@ -17,7 +17,9 @@
 
 - GrowMart (https://github.com/abbari6566/Growmart) - A full-stack website for a gardening business: equipment, flowers, pots, seeds, and more.
 
-- ManageMySubscriptions (https://github.com/abbari6566/Backend_Subscription_Tracker) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
+- StatsForGitHub (https://github.com/abbari6566/StatsForGitHub) - ManageMySubscriptions (https://github.com/abbari6566/Backend_Subscription_Tracker) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
+
+- A full-stack web application that monitors the current operational status of GitHub services, stores historical snapshots, and displays both live status and recent history. Fetches live GitHub system status from GitHub’s official Status API
 
 - Explainable AI for Pneumonia Detection from Chest X-rays (https://github.com/abbari6566/Explainable_AI) - This project builds an end-to-end pipeline for pneumonia detection from chest X-rays using deep learning and explainable AI (XAI).
 

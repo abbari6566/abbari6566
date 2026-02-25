@@ -19,7 +19,7 @@
 
 - VisualiseMyPython (https://github.com/abbari6566/VisualiseMyPython) - A small python code visualiser inspired from PythonTutor.
 
-- ManageMySubscriptions (https://github.com/abbari6566/Backend_Subscription_Tracker) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
+- ManageMySubscriptions (https://github.com/abbari6566/ManageMySubscription) - Full-stack app to track subscriptions: sign up, sign in, add subscriptions (amount, company, date, details), and get reminders when a subscription is due within 5 days.
 
 - StatsForGitHub (https://github.com/abbari6566/StatsForGitHub) - A full-stack web application that monitors the current operational status of GitHub services, stores historical snapshots, and displays both live status and recent history. Fetches live GitHub system status from GitHub’s official Status API
 

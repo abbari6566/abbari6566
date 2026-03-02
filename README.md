@@ -13,7 +13,7 @@
 
 ## Recent Projects
 
-- InterviewCraft (https://interview-craft-one.vercel.app/) - AI-powered interview preparation platform that generates role-specific interview questions, suggests tailored answers, and provides feedback on practice responses.
+- InterviewCraft (https://interview-craft-one.vercel.app/) (https://github.com/abbari6566/InterviewCraft) - AI-powered interview preparation platform that generates role-specific interview questions, suggests tailored answers, and provides feedback on practice responses.
 
 - PaperPilot (https://github.com/abbari6566/PaperPilot) - PaperPilot is a Research Paper RAG system with a production evaluation layer.
 

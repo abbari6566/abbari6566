@@ -15,6 +15,8 @@
 
 - InterviewCraft (https://interview-craft-one.vercel.app/) - AI-powered interview preparation platform that generates role-specific interview questions, suggests tailored answers, and provides feedback on practice responses.
 
+- PaperPilot (https://github.com/abbari6566/PaperPilot) - PaperPilot is a Research Paper RAG system with a production evaluation layer.
+
 - GrowMart (https://github.com/abbari6566/Growmart) - A full-stack website for a gardening business: equipment, flowers, pots, seeds, and more.
 
 - VisualiseMyPython (https://github.com/abbari6566/VisualiseMyPython) - A small python code visualiser inspired from PythonTutor.

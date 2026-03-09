@@ -18,6 +18,8 @@
 
 - PaperPilot (https://github.com/abbari6566/PaperPilot) - PaperPilot is a Research Paper RAG system with a production evaluation layer.
 
+- Taskr (https://github.com/abbari6566/Taskr) - A distributed task queue built from scratch in Python. Celery-like, fully transparent.
+
 - GenerateMyQR (https://github.com/abbari6566/GenerateMyQR) - A fun project for QR code generator built with vanilla HTML, CSS, and JavaScript. Uses a CDN-based QR library, no custom QR algorithm or Reed–Solomon implementation.
 
 - GrowMart (https://github.com/abbari6566/Growmart) - A full-stack website for a gardening business: equipment, flowers, pots, seeds, and more.

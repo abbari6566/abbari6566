@@ -9,7 +9,7 @@
 - Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com) | [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
 - Personal portfolio - https://personal-portfolio-eight-chi-54.vercel.app/
 - LinkedIn - https://www.linkedin.com/in/abrar-bari/
-- 
+  
 ---
 
 ## Recent Projects

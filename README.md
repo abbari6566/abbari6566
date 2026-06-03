@@ -2,11 +2,11 @@
 
 - Graduated from Texas Tech University with B.S in Computer Science, a minor in Mathematics and a GPA of 4.0/4.0 
 - Passionate about Web Dev, AI, ML
-- Currently an undergraduate Researcher at Dept. of Chemical Engineering at Texas Tech University under Dr Jennifer Gomez Pastora (https://www.depts.ttu.edu/che/research/gomez-pastora-research-group/people.php)
-- Currently an AI/ML Fellow @Break Through Tech, Cornell University
+- Previously an undergraduate Researcher at Dept. of Chemical Engineering at Texas Tech University under Dr Jennifer Gomez Pastora (https://www.depts.ttu.edu/che/research/gomez-pastora-research-group/people.php)
+- Previously an AI/ML Fellow @Break Through Tech, Cornell University
 - Previous AI Studio Fellow @Meta (https://github.com/meta1C-btt/language-bias)
-- Actively looking for full-time SWE roles
-- Reach me: [barifaiazabrar@gmail.com](mailto:barifaiazabrar@gmail.com) | [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
+- Actively looking for new-grad/early career full-time SWE/AI roles
+- Contact me: [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
 - Personal portfolio - https://personal-portfolio-eight-chi-54.vercel.app/
 - LinkedIn - https://www.linkedin.com/in/abrar-bari/
   

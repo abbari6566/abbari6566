@@ -7,7 +7,7 @@
 - Previous AI Studio Fellow @Meta (https://github.com/meta1C-btt/language-bias)
 - Actively looking for new-grad/early career full-time SWE/AI roles
 - Contact me: [abrar.cs.401@gmail.com](mailto:abrar.cs.401@gmail.com)
-- Personal portfolio - https://personal-portfolio-eight-chi-54.vercel.app/
+- Personal portfolio - [https://personal-portfolio-eight-chi-54.vercel.app/](https://abrar-bari-portfolio.vercel.app/)
 - LinkedIn - https://www.linkedin.com/in/abrar-bari/
   
 ---
